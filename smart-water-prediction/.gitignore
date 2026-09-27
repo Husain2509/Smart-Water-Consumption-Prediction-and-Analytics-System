@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Generated model artifacts
+models/*.pkl
+models/*.json
+models/*.csv
+
+# Generated figures
+reports/figures/*.png
+
+# Local environment files
+.venv/
+venv/
+.env
